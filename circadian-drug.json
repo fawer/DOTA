@@ -1,0 +1,74 @@
+{
+    "SNCA":[
+        "Ketoconazole",
+        "Gentian Violet",
+        "Epirubicin"
+    ],
+    "APP":[
+        "Gentian Violet"
+    ],
+    "ABCB1":[
+        "Verapamil",
+        "Fluphenazine",
+        "Miconazole",
+        "Propafenone",
+        "Methadone",
+        "Quinine",
+        "Itraconazole",
+        "Aripiprazole",
+        "Haloperidol",
+        "Saquinavir",
+        "Sufentanil",
+        "Sertindole",
+        "Loperamide",
+        "Simvastatin",
+        "Amiodarone",
+        "Lovastatin",
+        "Chlorpromazine",
+        "Carvedilol",
+        "Pimozide",
+        "Nelfinavir",
+        "Bromocriptine",
+        "Tamoxifen",
+        "Fentanyl",
+        "Ritonavir",
+        "Nicardipine",
+        "Clofazimine",
+        "Lopinavir",
+        "Etravirine",
+        "Trifluoperazine",
+        "Ketoconazole",
+        "Imatinib",
+        "Nefazodone",
+        "Reserpine",
+        "Daunorubicin",
+        "Clarithromycin",
+        "Astemizole",
+        "Clotrimazole",
+        "Epirubicin"
+    ],
+    "MAPK1":[
+        "Meclofenamic acid",
+        "Zafirlukast",
+        "Sulfasalazine",
+        "Sorafenib",
+        "Tretinoin",
+        "Mitoxantrone",
+        "Diiodohydroxyquinoline",
+        "Dicoumarol",
+        "Gentian Violet",
+        "Thioridazine",
+        "Isotretinoin"
+    ],
+    "JUN":[
+        "Colchicine",
+        "Vinorelbine"
+    ],
+    "ATXN2":[
+        "Niclosamide",
+        "Mitoxantrone",
+        "Daunorubicin",
+        "Digoxin",
+        "Epirubicin"
+    ]
+}

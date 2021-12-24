@@ -1,0 +1,29 @@
+Drug_ID,Circadian,Alzheimers,Target
+DB06216:Asenapine,1,0,5HT2A receptor
+DB09128:Brexpiprazole,1,1,Serotonin-Dopamine modulator
+DB06016:Cariprazine,1,0,dopamine D3-preferring D3/D2 receptor
+DB00477:Chlorpromazine,1,0,calmodulin antagonist
+DB00363:Clozapine,1,1,"Serotonin antagonist, 5-HT 2A/2C"
+DB00402:Eszopiclone,1,0,GABAA receptor
+DB00690:Flurazepam,1,0,"GABA, Short-acting benzodiazepines"
+DB00623:Fluphenazine,1,0,dopamine receptors
+DB00502:Haloperidol,1,0,dopamine receptor (mainly D2)
+DB04946:Iloperidone,0,0,dopamine D2/serotonin 5-HT2A receptor antagonist
+DB08815:Lurasidone,1,0,"Dopamine-2 (D2), benzothiazol"
+DB00334:Olanzapine,1,1,"alpha-1, dopamine, histamine H-1, muscarinic, and serotonin type 2 (5-HT2) receptors"
+DB01267:Paliperidone,1,0,dopamine D2/serotonin 5-HT2A receptor antagonist
+DB00850:Perphenazine,0,0,dopamine 2(D2) receptors
+DB01589:Quazepam,1,0,"GABA, Short-acting benzodiazepines"
+DB01224:Quetiapine,1,1,5-HT2A receptor antagonist
+DB00734:Risperidone,1,1,serotonergic 5-HT2A receptors
+DB00980:Ramelteon,1,1,Melatonin receptor agonists 
+DB09034:Suvorexant,1,1,orexin receptor
+DB09071:Tasimelteon,1,1,Melatonin receptor aganist
+DB00231:Temazepam,1,0,"GABA, short-acting benzodiazepines"
+DB00679:Thioridazine,0,0,postsynaptic mesolimbic dopaminergic D1 and D2 receptors
+DB00656:Trazodone,1,1,tricyclic antidepressant
+DB00897:Triazolam,1,0,"GABA, short-acting benzodiazepines"
+DB00831:Trifluoperazine,1,0,calmodulin antagonist
+DB00962:Zaleplon,1,0,Nonbenzodiazepine hypnotics
+DB00246:Ziprasidone,1,0,serotonin-2A (5-HT2A) and dopamine D2 receptors
+DB00425:Zolpidem,1,0,Nonbenzodiazepine hypnotics
